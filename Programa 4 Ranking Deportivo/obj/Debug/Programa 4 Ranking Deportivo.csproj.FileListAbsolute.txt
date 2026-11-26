@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Programa 4 Ranking Deportivo\bin\Debug\Programa 4 Ranking Deportivo.exe.config
+C:\Users\erick\source\repos\Programa 4 Ranking Deportivo\bin\Debug\Programa 4 Ranking Deportivo.exe
+C:\Users\erick\source\repos\Programa 4 Ranking Deportivo\bin\Debug\Programa 4 Ranking Deportivo.pdb
+C:\Users\erick\source\repos\Programa 4 Ranking Deportivo\obj\Debug\Programa 4 Ranking Deportivo.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Programa 4 Ranking Deportivo\obj\Debug\Programa 4 Ranking Deportivo.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Programa 4 Ranking Deportivo\obj\Debug\Programa 4 Ranking Deportivo.exe
+C:\Users\erick\source\repos\Programa 4 Ranking Deportivo\obj\Debug\Programa 4 Ranking Deportivo.pdb
