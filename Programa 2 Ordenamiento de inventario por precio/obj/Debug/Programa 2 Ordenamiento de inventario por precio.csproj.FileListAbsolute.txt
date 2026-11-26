@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Programa 2 Ordenamiento de inventario por precio\bin\Debug\Programa 2 Ordenamiento de inventario por precio.exe.config
+C:\Users\erick\source\repos\Programa 2 Ordenamiento de inventario por precio\bin\Debug\Programa 2 Ordenamiento de inventario por precio.exe
+C:\Users\erick\source\repos\Programa 2 Ordenamiento de inventario por precio\bin\Debug\Programa 2 Ordenamiento de inventario por precio.pdb
+C:\Users\erick\source\repos\Programa 2 Ordenamiento de inventario por precio\obj\Debug\Programa 2 Ordenamiento de inventario por precio.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Programa 2 Ordenamiento de inventario por precio\obj\Debug\Programa 2 Ordenamiento de inventario por precio.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Programa 2 Ordenamiento de inventario por precio\obj\Debug\Programa 2 Ordenamiento de inventario por precio.exe
+C:\Users\erick\source\repos\Programa 2 Ordenamiento de inventario por precio\obj\Debug\Programa 2 Ordenamiento de inventario por precio.pdb
