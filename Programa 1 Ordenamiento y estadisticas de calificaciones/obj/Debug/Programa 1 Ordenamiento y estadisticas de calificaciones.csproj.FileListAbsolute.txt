@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Programa 1 Ordenamiento y estadisticas de calificaciones\bin\Debug\Programa 1 Ordenamiento y estadisticas de calificaciones.exe.config
+C:\Users\erick\source\repos\Programa 1 Ordenamiento y estadisticas de calificaciones\bin\Debug\Programa 1 Ordenamiento y estadisticas de calificaciones.exe
+C:\Users\erick\source\repos\Programa 1 Ordenamiento y estadisticas de calificaciones\bin\Debug\Programa 1 Ordenamiento y estadisticas de calificaciones.pdb
+C:\Users\erick\source\repos\Programa 1 Ordenamiento y estadisticas de calificaciones\obj\Debug\Programa 1 Ordenamiento y estadisticas de calificaciones.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Programa 1 Ordenamiento y estadisticas de calificaciones\obj\Debug\Programa 1 Ordenamiento y estadisticas de calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Programa 1 Ordenamiento y estadisticas de calificaciones\obj\Debug\Programa 1 Ordenamiento y estadisticas de calificaciones.exe
+C:\Users\erick\source\repos\Programa 1 Ordenamiento y estadisticas de calificaciones\obj\Debug\Programa 1 Ordenamiento y estadisticas de calificaciones.pdb
