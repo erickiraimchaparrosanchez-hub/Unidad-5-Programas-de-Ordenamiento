@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Programa 5 Ordenamiento de tiempos de ejecucion\bin\Debug\Programa 5 Ordenamiento de tiempos de ejecucion.exe.config
+C:\Users\erick\source\repos\Programa 5 Ordenamiento de tiempos de ejecucion\bin\Debug\Programa 5 Ordenamiento de tiempos de ejecucion.exe
+C:\Users\erick\source\repos\Programa 5 Ordenamiento de tiempos de ejecucion\bin\Debug\Programa 5 Ordenamiento de tiempos de ejecucion.pdb
+C:\Users\erick\source\repos\Programa 5 Ordenamiento de tiempos de ejecucion\obj\Debug\Programa 5 Ordenamiento de tiempos de ejecucion.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Programa 5 Ordenamiento de tiempos de ejecucion\obj\Debug\Programa 5 Ordenamiento de tiempos de ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Programa 5 Ordenamiento de tiempos de ejecucion\obj\Debug\Programa 5 Ordenamiento de tiempos de ejecucion.exe
+C:\Users\erick\source\repos\Programa 5 Ordenamiento de tiempos de ejecucion\obj\Debug\Programa 5 Ordenamiento de tiempos de ejecucion.pdb
