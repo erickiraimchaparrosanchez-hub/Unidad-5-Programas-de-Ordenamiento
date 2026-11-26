@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Programa 6 Organizacion de numeros de matricula\bin\Debug\Programa 6 Organizacion de numeros de matricula.exe.config
+C:\Users\erick\source\repos\Programa 6 Organizacion de numeros de matricula\bin\Debug\Programa 6 Organizacion de numeros de matricula.exe
+C:\Users\erick\source\repos\Programa 6 Organizacion de numeros de matricula\bin\Debug\Programa 6 Organizacion de numeros de matricula.pdb
+C:\Users\erick\source\repos\Programa 6 Organizacion de numeros de matricula\obj\Debug\Programa 6 Organizacion de numeros de matricula.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Programa 6 Organizacion de numeros de matricula\obj\Debug\Programa 6 Organizacion de numeros de matricula.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Programa 6 Organizacion de numeros de matricula\obj\Debug\Programa 6 Organizacion de numeros de matricula.exe
+C:\Users\erick\source\repos\Programa 6 Organizacion de numeros de matricula\obj\Debug\Programa 6 Organizacion de numeros de matricula.pdb
